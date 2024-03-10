@@ -1,0 +1,68 @@
+
+.img{
+ background-image: url("Rwebsiteimgs/r1.jpeg");
+ background-repeat: no-repeat;
+ background-attachment: fixed; 
+ background-size: cover;
+}
+.card-img {
+  background: url("Rwebsiteimgs/h3.jpeg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  height: 100vh;
+  width: 100%;
+  position: relative; 
+}
+
+.custom-button {
+  
+  transition: all 0.3s ease; 
+  font-size: 30px;
+  margin: 0 10px;
+  background-color: #2b0ea2;
+  color: #ffffff;
+  border: none;
+  
+}
+.custom-button a {
+  text-decoration: none; 
+  color: inherit;
+}
+
+.custom-button:hover {
+  
+  transform: scale(1.1); 
+  filter: blur(1px); 
+  box-shadow: 0 0 10px rgba(111, 8, 8, 0.3); 
+  
+}
+
+.pics,img{
+  width: 100%;
+  height: 100vh;
+
+}
+.caption{
+ 
+  color: black;
+  margin-bottom: 200px;
+ margin-right: 700px;
+}
+.caption,p{
+  font-size: 20px;
+position: top;
+}
+/* Computer.css */
+@keyframes zoom-in {
+  from {
+      transform: scale(1);
+  }
+  to {
+      transform: scale(1.1);
+  }
+}
+
+.zoom-in:hover {
+  animation: zoom-in 0.5s forwards;
+}

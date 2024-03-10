@@ -1,0 +1,52 @@
+{
+  "posts": [
+    {
+      "id": "2986",
+      "name": "mummy",
+      "role": "mother"
+    },
+    {
+      "id": "1",
+      "name": "hfg",
+      "role": "gfnh"
+    },
+    {
+      "id": "a716",
+      "name": "asiya",
+      "email": "asiyamd710@gmail.c0m",
+      "password": "123"
+    }
+  ],
+  "Form": [
+    {
+      "name": "asiuay",
+      "productname": "kajdb",
+      "price": "alisdjkh",
+      "address": "ushb",
+      "email": "adiu",
+      "phonenumber": "1234567",
+      "zipcode": "21",
+      "id": "a0c1"
+    },
+    {
+      "id": "a034",
+      "name": "asiyamd",
+      "productname": "ertghj",
+      "price": "1234567",
+      "address": "xfcgvbhn",
+      "email": "asiyamd710@gmail.c0m",
+      "phonenumber": "23456",
+      "zipcode": "1234567"
+    },
+    {
+      "id": "d970",
+      "name": "asiyamd",
+      "productname": "ertghj",
+      "price": "1234567",
+      "address": "xfcgvbhn",
+      "email": "asiyamd710@gmail.c0m",
+      "phonenumber": "23456",
+      "zipcode": "1234567"
+    }
+  ]
+}
